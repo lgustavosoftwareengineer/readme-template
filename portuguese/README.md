@@ -25,9 +25,9 @@
 > ⏰ The **The README Template** é um _breve descrição_.
 
 <p align="center">
-    <a href="README.md">Inglês</a>
-    ·
     <a href="README-pt.md">Português</a>
+    ·
+    <a href="README.md">Inglês</a>
 </p>
 
 <div align="center">
