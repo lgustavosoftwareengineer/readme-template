@@ -79,8 +79,7 @@ $ yarn start # ou npm start
 
 # 🧐 PS
 
-If you whats to use the Eslint and Prettier configs follow this tutorial:
-Se você quiser usar as predefinições Eslint e Prettier, siga o seguinte tutorial
+Se você quiser usar as predefinições Eslint e Prettier, siga o seguinte tutorial:
 [Link](https://dev.to/christiantld/configurando-um-projeto-react-com-typescript-3kg)
 
 # :bug: Issues (Problemas)
